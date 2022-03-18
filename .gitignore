@@ -1,0 +1,8 @@
+# будет игнорироваться папка
+/tmp/
+
+# будут игнорироваться файлы
+index.html_old
+NeuroStartUp.png_backup
+Thumbs.db
+.DS_Store
